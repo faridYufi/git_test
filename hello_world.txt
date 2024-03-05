@@ -1,0 +1,6 @@
+today i learn how to make repository in github then clone in local machine 
+you should have ssh in github then everything goes on! 
+(this link that tutorial how to paste it! https://youtu.be/EoLrCX1VVog?si=VlZ99R0-hZYKmm4m)
+after make repository, then clone in local machine and then git setup 
+you just need to starting after all those!!
+happy learning dude :|
